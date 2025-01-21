@@ -265,7 +265,7 @@ const InfoSection = () => {
           <li>
             <a 
             target="blank"
-            href="https://basit-api.vercel.app/posts" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/posts" className="text-blue-500 hover:underline">
               /posts
             </a>{" "}
             100 posts
@@ -273,7 +273,7 @@ const InfoSection = () => {
           <li>
             <a
             target="blank"
-            href="https://basit-api.vercel.app/comments" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/comments" className="text-blue-500 hover:underline">
               /comments
             </a>{" "}
             500 comments
@@ -281,7 +281,7 @@ const InfoSection = () => {
           <li>
             <a
             target="blank"
-            href="https://basit-api.vercel.app/albums" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/albums" className="text-blue-500 hover:underline">
               /albums
             </a>{" "}
             100 albums
@@ -289,7 +289,7 @@ const InfoSection = () => {
           <li>
             <a 
             target="blank"
-            href="https://basit-api.vercel.app/photos" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/photos" className="text-blue-500 hover:underline">
               /photos
             </a>{" "}
             5000 photos
@@ -297,7 +297,7 @@ const InfoSection = () => {
           <li>
             <a 
             target="blank"
-            href="https://basit-api.vercel.app/todos" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/todos" className="text-blue-500 hover:underline">
               /todos
             </a>{" "}
             200 todos
@@ -305,7 +305,7 @@ const InfoSection = () => {
           <li>
             <a 
             target="blank"
-            href="https://basit-api.vercel.app/users" className="text-blue-500 hover:underline">
+            href="https://basit-placeholder-api.vercel.app/users" className="text-blue-500 hover:underline">
               /users
             </a>{" "}
             10 users
